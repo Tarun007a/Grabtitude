@@ -19,5 +19,5 @@ public class AppConstants {
 
     public static final String defaultProblemId = "1";  // used for next and previous problem from one problem
 
-    public static final String DOMAIN = "https://gravtitude.vercel.app/";
-}
+    public static final String DOMAIN = "http://localhost:8080/";
+}t
